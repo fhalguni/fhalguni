@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="1000px" alt="Logo" height="500px">
 </div>
 <h1 align="center">Hi 👋, I'm Ashwini Patil</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Java developer</h3>
 
 <img align="right" width="400px" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="image Ash"/>
 
