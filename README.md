@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwini Patil</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<img align="right" width="400px" src="![image](https://github.com/fhalguni/fhalguni/assets/121940158/ee2c5a35-fc36-4f3d-be33-407a3c235203)" alt="image Ash"/>
+<img align="right" width="400px" src="[![image](https://github.com/fhalguni/fhalguni/assets/121940158/ee2c5a35-fc36-4f3d-be33-407a3c235203)](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)" alt="image Ash"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fhalguni&label=Profile%20views&color=0e75b6&style=flat" alt="fhalguni" /> </p>
 
