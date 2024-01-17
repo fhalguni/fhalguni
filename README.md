@@ -15,7 +15,7 @@
 
 - 📫 How to reach me *ashpatil@gmail.com*
 
-- ⚡ Fun fact *Anime Lover 💥💥*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
